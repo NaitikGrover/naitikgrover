@@ -1,17 +1,11 @@
-<head>
-  <style>
-    .connect a{margin:10px;}
-  </style>
-</head>
-
 <h1 align="center">Hi 👋, I'm Naitk Grover</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 
 
 <h3 align="left">Connect with me:</h3>
-<div class = "connect">
-  <a href="https://codepen.io/naitik-grover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="naitik-grover" height="70" width="70" /></a>
+<div class = "connect" >
+<a style = "margin-right:100px" href="https://codepen.io/naitik-grover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="naitik-grover" height="70" width="70" /></a>
 <a href="https://twitter.com/naitikgrover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naitikgrover" height="70" width="70" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/naitik-grover-506632350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/naitik-grover-506632350" height="70" width="70" /></a>
 <a href="https://instagram.com/hunterx.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hunterx.dev" height="70" width="70" /></a>
