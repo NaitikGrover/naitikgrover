@@ -1,6 +1,8 @@
-<style>
-  
-</style>
+<head>
+  <style>
+    
+  </style>
+</head>
 
 <h1 align="center">Hi 👋, I'm Naitk Grover</h1>
 <h3 align="center">A passionate developer from India</h3>
