@@ -4,14 +4,14 @@
 ---
 
 <h3 align="center">🚀 Connect with me:</h3>
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://codepen.io/naitik-grover" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="80" width="80"/></a>
     <a href="https://twitter.com/naitikgrover" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="80" width="80"/></a>
     <a href="https://linkedin.com/in/naitik-grover-506632350" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="80" width="80"/></a>
     <a href="https://instagram.com/hunterx.dev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="80" width="80"/></a>
     <a href="https://dribbble.com/naitikgrover" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="80" width="80"/></a>
     <a href="https://discord.gg/EK4V8ntZ2x" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="80" width="80"/></a>
-</p>
+</div>
 
 ---
 
