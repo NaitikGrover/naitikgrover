@@ -4,39 +4,35 @@
 ---
 
 <h3 align="center">🚀 Connect with me:</h3>
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center">
     <a href="https://codepen.io/naitik-grover" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="80" width="80"/>
     </a>
+    <br>
     <a href="https://twitter.com/naitikgrover" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="80" width="80"/>
     </a>
+    <br>
     <a href="https://linkedin.com/in/naitik-grover-506632350" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="80" width="80"/>
     </a>
+    <br>
     <a href="https://instagram.com/hunterx.dev" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="80" width="80"/>
     </a>
+    <br>
     <a href="https://dribbble.com/naitikgrover" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="80" width="80"/>
     </a>
+    <br>
     <a href="https://www.behance.net/naitikgrover" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="80" width="80"/>
     </a>
+    <br>
     <a href="https://discord.gg/EK4V8ntZ2x" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="80" width="80"/>
     </a>
 </div>
-
----
-
-<h3 align="center">🔥 GitHub Stats:</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NaitikGrover&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="500px"/>
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaitikGrover&theme=tokyonight" alt="GitHub Streak" width="500px"/>
-</p>
 
 ---
 
@@ -54,6 +50,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="80"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80" height="80"/>
 </div>
+
+---
+
+<h3 align="center">🔥 GitHub Stats:</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=NaitikGrover&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="500px"/>
+</p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaitikGrover&theme=tokyonight" alt="GitHub Streak" width="500px"/>
+</p>
 
 ---
 
