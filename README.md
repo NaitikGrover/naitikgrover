@@ -1,6 +1,6 @@
 <head>
   <style>
-    
+    .connect a{margin:10px;}
   </style>
 </head>
 
@@ -10,7 +10,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<div>
+<div class = "connect">
   <a href="https://codepen.io/naitik-grover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="naitik-grover" height="70" width="70" /></a>
 <a href="https://twitter.com/naitikgrover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naitikgrover" height="70" width="70" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/naitik-grover-506632350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/naitik-grover-506632350" height="70" width="70" /></a>
