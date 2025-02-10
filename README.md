@@ -5,13 +5,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/naitik-grover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="naitik-grover" height="100" width="100" /></a>
-<a href="https://twitter.com/naitikgrover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naitikgrover" height="100" width="100" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/naitik-grover-506632350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/naitik-grover-506632350" height="30" width="40" /></a>
-<a href="https://instagram.com/hunterx.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hunterx.dev" height="30" width="40" /></a>
-<a href="https://dribbble.com/naitikgrover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="naitikgrover" height="30" width="40" /></a>
-<a href="https://www.behance.net/naitikgrover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="naitikgrover" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/EK4V8ntZ2x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/EK4V8ntZ2x" height="30" width="40" /></a>
+<a href="https://codepen.io/naitik-grover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="naitik-grover" height="80" width="80" /></a>
+<a href="https://twitter.com/naitikgrover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naitikgrover" height="80" width="80" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/naitik-grover-506632350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/naitik-grover-506632350" height="80" width="80" /></a>
+<a href="https://instagram.com/hunterx.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hunterx.dev" height="80" width="80" /></a>
+<a href="https://dribbble.com/naitikgrover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="naitikgrover" height="80" width="80" /></a>
+<a href="https://www.behance.net/naitikgrover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="naitikgrover" height="80" width="80" /></a>
+<a href="https://discord.gg/https://discord.gg/EK4V8ntZ2x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/EK4V8ntZ2x" height="80" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
