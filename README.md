@@ -1,4 +1,4 @@
-<h2 align="center">Naitik Grover - Full Stack Developer</h2>
+<h2 align="center">Naitik Grover - Full Stack Developer </h2>
 
 ###
 <div align="center">
