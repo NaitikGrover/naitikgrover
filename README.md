@@ -2,8 +2,7 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaitikGrover&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /><br>
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=material-palenight&fontFamily=&preferLogin=false">    <img  alt="NaitikGrover's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/NaitikGrover?cardType=level&theme=material-palenight&fontFamily=&preferLogin=false" />  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NaitikGrover&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
 ###
 
