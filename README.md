@@ -3,7 +3,7 @@
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NaitikGrover&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaitikGrover"/>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=material-palenight&fontFamily=&preferLogin=false">    <img  alt="NaitikGrover's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/NaitikGrover?cardType=level&theme=material-palenight&fontFamily=&preferLogin=false" />  </a>
 
 ###
 
