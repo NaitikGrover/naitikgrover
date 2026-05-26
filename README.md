@@ -2,7 +2,9 @@
 
 ###
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NaitikGrover&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+  <img src="https://raw.githubusercontent.com/NaitikGrover/NaitikGrover/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/NaitikGrover/NaitikGrover/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 ###
 
