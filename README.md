@@ -1,10 +1,7 @@
 <h2 align="center">Naitik Grover - Full Stack Developer </h2>
 
 ###
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NaitikGrover/NaitikGrover/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/NaitikGrover/NaitikGrover/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NaitikGrover&theme=dark" alt="GitHub Streak" /></a>
 
 ###
 
