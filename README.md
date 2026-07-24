@@ -1,8 +1,12 @@
 <h2 align="center">Naitik Grover - Full Stack Developer </h2>
 
 ###
-[![GitHub Streak](https://demolab.com)](https://git.io)
 
+<div align="center">
+  <a href="https://github.com">
+    <img src="https://demolab.com" alt="GitHub Streak" />
+  </a>
+</div>
 
 ###
 
@@ -56,7 +60,6 @@
 ###
 
 <br clear="both">
-
 
 <picture>
   <source
