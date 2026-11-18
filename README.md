@@ -3,7 +3,9 @@
 ###
 
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NaitikGrover&theme=dark" alt="GitHub Streak" /></a>
+ <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=NaitikGrover&theme=dark&v=2" alt="GitHub Streak" />
+</a>
 </div>
 
 ###
